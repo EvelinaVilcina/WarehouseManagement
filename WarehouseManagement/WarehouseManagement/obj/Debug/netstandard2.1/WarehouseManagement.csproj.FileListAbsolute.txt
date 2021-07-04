@@ -1,0 +1,9 @@
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\bin\Debug\netstandard2.1\WarehouseManagement.deps.json
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\bin\Debug\netstandard2.1\WarehouseManagement.dll
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\bin\Debug\netstandard2.1\WarehouseManagement.pdb
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.csprojAssemblyReference.cache
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.AssemblyInfoInputs.cache
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.AssemblyInfo.cs
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.dll
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.pdb
+C:\Users\eveli\source\repos\WarehouseManagement\WarehouseManagement\obj\Debug\netstandard2.1\WarehouseManagement.csproj.CoreCompileInputs.cache
