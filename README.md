@@ -1,1 +1,1 @@
-# WarehouseMangement
+# WarehouseManagement
