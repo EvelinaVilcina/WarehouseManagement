@@ -90,11 +90,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
+      "projectUniqueName": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
       "projectName": "WarehouseManagement.Ui",
-      "projectPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
+      "projectPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
       "packagesPath": "C:\\Users\\eveli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Ui\\obj\\",
+      "outputPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Ui\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
-              "projectPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj"
+            "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
+              "projectPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj"
             }
           }
         }

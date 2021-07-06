@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8+YN92RIbYUkyGKE/dThszAb5b9iLOAbF1xk6/Wich2pTAhFvrZp8dstIEe18/R5SgUpX44JvFxOTxpj4npjw==",
+  "dgSpecHash": "SIhJ5fWy69yqAVr+t3TVUQEp67zaCTpuCgVeKiFVU9QobkA1czJi8R1yLbz0YUqpiVLuDaygWYJzX1H6dhlqOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
+  "projectFilePath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Ui\\WarehouseManagement.Ui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eveli\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
     "C:\\Users\\eveli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"

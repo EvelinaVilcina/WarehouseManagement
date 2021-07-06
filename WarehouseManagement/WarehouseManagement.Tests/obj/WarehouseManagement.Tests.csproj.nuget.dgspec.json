@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj": {}
+    "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj": {
+    "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj",
+        "projectUniqueName": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj",
         "projectName": "WarehouseManagement.Tests",
-        "projectPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj",
+        "projectPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Tests\\WarehouseManagement.Tests.csproj",
         "packagesPath": "C:\\Users\\eveli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement.Tests\\obj\\",
+        "outputPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
-                "projectPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj"
+              "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
+                "projectPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj"
               }
             }
           }
@@ -41,6 +41,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,28 +78,28 @@
         }
       }
     },
-    "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
+    "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj",
+        "projectUniqueName": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj",
         "projectName": "WarehouseManagement",
-        "projectPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj",
+        "projectPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement.csproj",
         "packagesPath": "C:\\Users\\eveli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eveli\\source\\repos\\WarehouseManagement\\WarehouseManagement\\obj\\",
+        "outputPath": "C:\\GitHub\\WarehouseManagement\\WarehouseManagement\\WarehouseManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         },
@@ -92,13 +110,11 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netstandard2.1": {
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[3.1.7, )"
             }
           },
           "imports": [
@@ -111,6 +127,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
